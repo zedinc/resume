@@ -26,6 +26,7 @@ main {
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
+
 header {
     text-align: center;
     margin: auto 2em;
@@ -61,4 +62,16 @@ h4 {
 
 #mainLeft {
     border-right: 1px solid lightgray;
+}
+
+.job-title {
+    font-size: larger;
+}
+
+.team-org {
+    color: gray;
+}
+
+.tenure {
+    color: darkolivegreen;
 }
